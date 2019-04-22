@@ -39,6 +39,6 @@
   
   
 ### `Flow Chart`
-  <img src="https://www.notion.so/Gelato-Lab-1fc27c717a144e05b10e0605f1207429#5a98458e76ff4520ba11e6c1e7c77dbd" alt="flow" />
-
-
+  <img src="http://bit.ly/2PlGAVL" alt="flow" />
+### `service slide`
+[서비스 소개 슬라이드](http://slides.com/betty310/deck-1#/)
