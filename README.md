@@ -39,6 +39,9 @@
   
   
 ### `Flow Chart`
-  <img src="http://bit.ly/2PlGAVL" alt="flow" />
+
+![Flow Chart](http://bit.ly/2PlGAVL)
+  
 ### `service slide`
+
 [서비스 소개 슬라이드](http://slides.com/betty310/deck-1#/)
