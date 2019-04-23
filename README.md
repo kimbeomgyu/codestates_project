@@ -40,11 +40,15 @@
   
 ### `Flow Chart`
 
-![Flow Chart](http://bit.ly/2L65slA) 
+
+![](http://bit.ly/2L65slA) 
+
 
 ### `Google Cloud Vision`
 
-![google cloud vision](http://bit.ly/2Vk4Wo8 google cloud vision)
+
+![](http://bit.ly/2Vk4Wo8)
+
 
 ### `service slide`
 
