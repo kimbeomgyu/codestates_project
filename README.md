@@ -41,13 +41,13 @@
 ### `Flow Chart`
 
 
-![](http://bit.ly/2L65slA) 
+![flowChart](http://bit.ly/2L65slA) 
 
 
 ### `Google Cloud Vision`
 
 
-![](http://bit.ly/2Vk4Wo8)
+![google_cloud_vision](http://bit.ly/2Vk4Wo8)
 
 
 ### `service slide`
