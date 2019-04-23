@@ -44,7 +44,7 @@
 
 ### `Google Cloud Vision`
 
-<img src="http://bit.ly/2Vk4Wo8" alt="google cloud vision" />
+<img src="bit.ly/2Vk4Wo8" alt="google cloud vision" />
 
 ### `service slide`
 
