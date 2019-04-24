@@ -36,20 +36,18 @@
 
 <br>
 
-## 설명
-
-### `Flow Chart`
+## `Flow Chart`
 
 ![](/img/GelatoLab_project_flow_chart.png)
 
-### `Google Cloud Vision`
+## `Google Cloud Vision`
 
 ![](/img/Google_Cloud_Vision_example.png)
 
-### `service slide`
+## `service slide`
 
 [서비스 소개 슬라이드](http://slides.com/betty310/deck-1#/)
 
-### `service site`
+## `service site`
 
 [서비스 실행 사이트](https://codelab-no028chbo.now.sh/)
